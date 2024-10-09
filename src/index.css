@@ -36,3 +36,74 @@
 }
 
 
+.bg-primary {
+  background: url(/hairdressing-equipment-with-copy-space.jpg);
+  background-size: cover;
+}
+
+.bg-home {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), 
+              url(/homepage-try.webp);
+  background-size: cover;
+  background-position: 0% 40%;
+}
+
+
+.line {
+  flex-grow: 1; /* Permette alla linea di occupare tutto lo spazio rimanente */
+  height: 1px; /* Altezza della linea */
+  background-color: black; /* Colore della linea */
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.picture1 {
+  background: url(/try1.jpg);
+  background-size: cover;
+}
+.picture2 {
+  background: url(/try2.jpg);
+  background-size: cover;
+}
+.picture3 {
+  background: url(/try3.jpg);
+  background-size: cover;
+}
+.picture4 {
+  background: url(/try4.jpg);
+  background-size: cover;
+}
+.picture5 {
+  background: url(/try5.jpg);
+  background-size: cover;
+}
+
+
+
+
+.picture-contact1 {
+  background: url(/sposa.jpg);
+  background-size: cover;
+  background-position: 0% 25%
+}
+
+
+.picture-contact2 {
+  background: url(/try1.jpg);
+  background-size: cover;
+  background-position: 0% 70%;
+}
+
+
+.picture-contact3{
+  background: url(/castana.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+
+.picture-contact4 {
+  background: url(/salone.webp);
+  background-size: cover;
+  background-position: center;
+}
